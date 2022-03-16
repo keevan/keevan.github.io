@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-index-tsx",
     "path": "/",
-    "result": {"pageContext":{}},
-    "staticQueryHashes": []}
+    "result": {"data":{"site":{"siteMetadata":{"title":"Kevin Pham"}},"allMarkdownRemark":{"nodes":[{"excerpt":"I enjoy reading. And as much as I wanted to write something, I never got around to it. With that said, this first post will dive straight…","fields":{"slug":"/putting-the-blog-together/"},"frontmatter":{"date":"March 12, 2022","title":"Putting the blog together","description":"Diving head first into the world of blogging"}}]}},"pageContext":{}},
+    "staticQueryHashes": ["2841359383","3257411868"]}
