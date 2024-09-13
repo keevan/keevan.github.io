@@ -1,13 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on Kevin Pham</title><link>/posts/</link><description>Recent content in Blog on Kevin Pham</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Inclusive Language</title><link>/posts/inclusive-language/</link><pubDate>Thu, 27 Oct 2022 17:12:23 +1100</pubDate><guid>/posts/inclusive-language/</guid><description>We live in a world, filled with all sorts of people. A history filled with combinations of unique upbringings, cultures, experiences, joys and sufferings.
-How language fits into all of this Words matter. They are used to convey ideas, tell stories, describe objects, grow communities, teach others, etc.
-Words can be used for good:
-to uplift, to inspire, to comfort, to bring clarity. Or bad:
-to put down, to provoke, to spread misinformation, to marginalise.</description></item><item><title>Blaming the user</title><link>/posts/blaming-the-user/</link><pubDate>Tue, 25 Oct 2022 17:52:32 +1100</pubDate><guid>/posts/blaming-the-user/</guid><description>The user is clearly at fault, not your software. Right?
-This topic seems to come up often. Let&amp;rsquo;s break it down.
-Why you might feel this way If you work in the service industry, you might know the expression:
-&amp;ldquo;The customer is always right.&amp;rdquo;
-It&amp;rsquo;s painful to hear, especially when it comes from the customer&amp;rsquo;s mouth, or your boss, or your colleague. So when might this happen?
-When ordering food, the customer complains that the meal served is different to what was expected.</description></item><item><title>Back to square one</title><link>/posts/back-to-square-one/</link><pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate><guid>/posts/back-to-square-one/</guid><description>For some astute followers (shoutout to Pigeon), you may have noticed the blog had changed in appearance. And yes, you are correct.
-The dilemma I encountered no major issues using GatsbyJS &amp;ndash; an enjoyable framework to use. Finding myself gradually becoming more distracted by what it had to offer consumed more time than I wanted to spend. I became trapped and focused on looking at the shiny, instead of focusing more on what I wanted to do originally &amp;ndash; start writing some content.</description></item><item><title>Putting the blog together</title><link>/posts/putting-the-blog-together/</link><pubDate>Sat, 12 Mar 2022 13:53:15 +0000</pubDate><guid>/posts/putting-the-blog-together/</guid><description>I enjoy reading. And as much as I wanted to write something, I never got around to it. With that said, this first post will dive straight into the thick of it.
-Thought Process I want to write content that I believe would help future me, and also inspire and help others. And so, I will share my current work-in-progress journey, one purposed to involve little time in maintaining.
-Have topics I want to share.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on Kevin Pham</title><link>/posts/</link><description>Recent content in Blog on Kevin Pham</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 27 Oct 2022 17:12:23 +1100</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Inclusive Language</title><link>/posts/inclusive-language/</link><pubDate>Thu, 27 Oct 2022 17:12:23 +1100</pubDate><guid>/posts/inclusive-language/</guid><description>&lt;p>We live in a world, filled with all sorts of people. A history filled with combinations of unique upbringings, cultures, experiences, joys and sufferings.&lt;/p>
+&lt;h2 id="how-language-fits-into-all-of-this">How language fits into all of this&lt;/h2>
+&lt;p>&lt;strong>Words matter&lt;/strong>. They are used to convey ideas, tell stories, describe objects, grow communities, teach others, etc.&lt;/p>
+&lt;p>Words can be used for good:&lt;/p>
+&lt;ul>
+&lt;li>to uplift,&lt;/li>
+&lt;li>to inspire,&lt;/li>
+&lt;li>to comfort,&lt;/li>
+&lt;li>to bring clarity.&lt;/li>
+&lt;/ul>
+&lt;p>Or bad:&lt;/p>
+&lt;ul>
+&lt;li>to put down,&lt;/li>
+&lt;li>to provoke,&lt;/li>
+&lt;li>to spread misinformation,&lt;/li>
+&lt;li>to marginalise.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>This post is not to discuss whether it&amp;rsquo;s good or bad&lt;/strong>. Each person has their own sense of right and wrong. It would be foolish for me to impose my ideals onto someone else. My intention is not to judge, or force you to behave a certain way.&lt;/p></description></item><item><title>Blaming the user</title><link>/posts/blaming-the-user/</link><pubDate>Tue, 25 Oct 2022 17:52:32 +1100</pubDate><guid>/posts/blaming-the-user/</guid><description>&lt;p>The user is &lt;em>clearly&lt;/em> at fault, not &lt;ins>your&lt;/ins> software. Right?&lt;/p>
+&lt;p>This topic seems to come up often. Let&amp;rsquo;s break it down.&lt;/p>
+&lt;h2 id="why-you-might-feel-this-way">Why you might feel this way&lt;/h2>
+&lt;p>If you work in the service industry, you might know the expression:&lt;/p>
+&lt;blockquote>
+&lt;p>&amp;ldquo;The customer is always right.&amp;rdquo;&lt;/p>
+&lt;/blockquote>
+&lt;p>It&amp;rsquo;s painful to hear, especially when it comes from the customer&amp;rsquo;s mouth, or your boss, or your colleague. So when might this happen?&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>When ordering food&lt;/strong>, the customer complains that the meal served is different to what was expected.&lt;/li>
+&lt;li>&lt;strong>When using software&lt;/strong>, the user raises an issue with the way something should work.&lt;/li>
+&lt;/ul>
+&lt;p>Plenty more examples are available, but I tell you this, that the expression, at face value, is not always true. Instead, it&amp;rsquo;s almost always wrong.&lt;/p></description></item><item><title>Back to square one</title><link>/posts/back-to-square-one/</link><pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate><guid>/posts/back-to-square-one/</guid><description>&lt;p>For some astute followers (shoutout to Pigeon), you may have noticed the blog had changed in appearance. And yes, you are correct.&lt;/p>
+&lt;h2 id="the-dilemma">The dilemma&lt;/h2>
+&lt;p>I encountered no major issues using GatsbyJS &amp;ndash; an enjoyable framework to use. Finding myself gradually becoming more distracted by what it had to offer consumed more time than I wanted to spend. I became trapped and focused on looking at the &lt;em>shiny&lt;/em>, instead of focusing more on what I wanted to do originally &amp;ndash; start writing some content.&lt;/p></description></item><item><title>Putting the blog together</title><link>/posts/putting-the-blog-together/</link><pubDate>Sat, 12 Mar 2022 13:53:15 +0000</pubDate><guid>/posts/putting-the-blog-together/</guid><description>&lt;p>I enjoy reading. And as much as I wanted to write something, I never got around to it. With that said, this first post will dive straight into the thick of it.&lt;/p>
+&lt;h3 id="thought-process">Thought Process&lt;/h3>
+&lt;p>I want to write content that I believe would help future me, and also inspire and help others. And so, I will share my current work-in-progress journey, one purposed to involve little time in maintaining.&lt;/p>
+&lt;ul>
+&lt;li>Have topics I want to share.&lt;/li>
+&lt;li>Pick a framework to lay out the content.&lt;/li>
+&lt;li>In the future, ensure it empowers me to focus on the content and less on the internals.&lt;/li>
+&lt;li>Allow for potential scaling, and build it out bit by bit.&lt;/li>
+&lt;li>And last but probably the most important, I want to ensure a high level of readability later on, which means conciseness, structure and clear intent - unlike this first post.&lt;/li>
+&lt;/ul>
+&lt;h3 id="reflection">Reflection&lt;/h3>
+&lt;p>For the reasons above, I chose to host the content and open source the code on GitHub ❤️, and use Gatsby as the framework that ties it all together. I plan to add GitHub actions to automatically deploy after pushing or merging changes.&lt;/p></description></item></channel></rss>
